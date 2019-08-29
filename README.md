@@ -33,11 +33,11 @@
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## 今天的知识点 (2019.08.17) —— 第123天
-- [html] [使用canvas画出一个矩形](https://github.com/haizlin/fe-interview/issues/1073)
-- [css] [什么是zoom？它有什么作用？](https://github.com/haizlin/fe-interview/issues/1074) 
-- [js] [分析`('b' + 'a' + +'a' + 'a').toLowerCase()`返回的结果](https://github.com/haizlin/fe-interview/issues/1075)
-- [软技能] [你了解雅虎前端优化的35条军规吗？你能说上几条？](https://github.com/haizlin/fe-interview/issues/1076)
+## 今天的知识点 (2019.08.29) —— 第135天
+- [html] [如何刷新浏览器的应用缓存？](https://github.com/haizlin/fe-interview/issues/1124)
+- [css] [说说你对css的will-change属性的理解，它有什么作用呢？](https://github.com/haizlin/fe-interview/issues/1125) 
+- [js] [请解释下NaN === NaN的结果](https://github.com/haizlin/fe-interview/issues/1126)
+- [软技能] [你了解什么是微前端吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/1127)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -74,17 +74,34 @@
 
 …………  
 
-- 第121天 (2019.08.15)  
-    - [html] [请描述下application cache的更新过程？](https://github.com/haizlin/fe-interview/issues/1065)
-    - [css] [请举例说明伪元素 (pseudo-elements) 有哪些用途？](https://github.com/haizlin/fe-interview/issues/1066) 
-    - [js] [请说说escape、encodeURI、decodeURI、encodeURIComponent和decodeURIComponent的区别？](https://github.com/haizlin/fe-interview/issues/1067)
-    - [软技能] [用哪种格式可以存储包含Alpha通道的图像？Alpha通道是指什么？](https://github.com/haizlin/fe-interview/issues/1068)
+- 第133天 (2019.08.27)  
+    - [html] [canvas默认画布的尺寸是多大？怎样设置才能不会变形？](https://github.com/haizlin/fe-interview/issues/1116)
+    - [css] [如何使用css3实现一个div设置多张背景图片？](https://github.com/haizlin/fe-interview/issues/1117) 
+    - [js] [写一个方法，将字符串中的单词倒转后输出，如：`my love` -> `ym evol`](https://github.com/haizlin/fe-interview/issues/1118)
+    - [软技能] [说说你是怎么安排你工作外的时间的？](https://github.com/haizlin/fe-interview/issues/1119)
 
-- 第122天 (2019.08.16)  
-    - [html] [说说form-data、x-www-form-urlencoded、raw、binary的区别是什么？](https://github.com/haizlin/fe-interview/issues/1069)
-    - [css] [举例说明微信端兼容问题有哪些？](https://github.com/haizlin/fe-interview/issues/1070) 
-    - [js] [能否正确获取本地上传的文件路径？如果可以怎么做？如果不可以解释下为什么？](https://github.com/haizlin/fe-interview/issues/1071)
-    - [软技能] [如果一个项目要你重构成前后端分离，你的方法论是什么？](https://github.com/haizlin/fe-interview/issues/1072)
+- 第134天 (2019.08.28)  
+    - [html] [Web Worker线程的限制是什么？](https://github.com/haizlin/fe-interview/issues/1120)
+    - [css] [transition、animation、transform三者有什么区别？](https://github.com/haizlin/fe-interview/issues/1121) 
+    - [js] [请写出如下代码运行的结果并解释为什么？[代码]](https://github.com/haizlin/fe-interview/issues/1122)
+    ```javascript
+
+        var type = 'images';
+        var size = {width: 800, height: 600};
+        var format = ['jpg', 'png'];
+
+        function change(type, size, format){
+            type = 'video';
+            size = {width: 1024, height: 768};
+            format.push('map');
+        }
+
+        change(type, size, format);
+
+        console.log(type, size, format);
+
+    ```
+    - [软技能] [你在工作中有用到过websocket吗？用它来解决什么问题？](https://github.com/haizlin/fe-interview/issues/1123)
 
 - **[查看全部](category/history.md)**
 
@@ -156,6 +173,9 @@
 - 2019.07.25 — 开通了[segmentfault专栏](https://segmentfault.com/blog/frontend-interview)的专栏，至今已有10个平台同步更新，让更多的朋友参与进来！
 - 2019.07.25 — 整整100天，从未间断，共968个知识点，3787个朋友关注，上百万次访问！创造了多个记录，多个第一，但路还长，望继续坚持！
 - 2019.08.02 — 第108天，知识点突破1000，继续努力前行！发现一路上好多模仿者、也有好多抄袭者（引用原题都没有添加出处），但不忘初心，抄得了题目，抄不了**那份坚持与执着**！同时感谢他们一路的陪伴。
+- 2019.08.18 — 第124天，受到俄罗斯老外的关注并吐槽了一下，原因估计是他看不懂中文吧，虽然也有英文版本，但那英文及排版有望改进。
+- 2019.08.19 — 第125天，本项目又再一次上了github的热门榜，距离上次刚好是50天（在第75天的时候），能帮助到更多的朋友，那就只有坚持吧！
+- 2019.08.21 — 第127天，star数突破5000，github上搜索“前端面试”，按star排行，成功挺进前5，这是6月25日定的小目标，提前完成，继续坚持吧，不忘初心，利他利己，足矣。
 
 ## 在哪可以看到
 - [前端向朔](https://blog.csdn.net/u013778905/article/category/9098225)（CSDN每天同步更新）
@@ -182,6 +202,7 @@
 * [CS-Notes](https://github.com/CyC2018/CS-Notes)（技术面试必备基础知识、Leetcode 题解）
 * [情封](https://github.com/f2er)（公众号「前端早读课」作者情封）
 * [Nodejs技术栈](https://www.nodejs.red)（公众号「Nodejs技术栈」作者五月君，本文档是作者从事 Node.js Developer 以来的学习历程，旨在为大家提供一个较详细的学习教程，侧重点更倾向于 Node.js 服务端所涉及的技术栈。）
+* [SHERlocked93](https://github.com/SHERlocked93/blog) （公众号 「前端下午茶」作者，分享前端精选文章，和大家一起成长）
 * [木易杨](https://github.com/Advanced-Frontend/Daily-Interview-Question)（公众号「高级前端进阶」和壹题的作者，每天搞定一道前端大厂面试题，一年后会看到不一样的自己。）
 * [刘小夕](https://github.com/YvetteLau/Step-By-Step)（公众号「前端宇宙」作者刘小夕，我将和大家一起一步一个脚印，向前端专家迈进。）
 * [koala](https://github.com/koala-coding/goodBlog)（公众号「程序员成长指北」作者，专注 完整的 Node.js 技术栈分享，从 JavaScript 到 Node.js,再到后端数据库，祝您成为优秀的高级 Node.js 工程师。座右铭：今天未完成的，明天更不会完成。）

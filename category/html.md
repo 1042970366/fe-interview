@@ -2,8 +2,22 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.08.011
+> 最新：2019.08.25
 
+- [table去除边框的方法有哪些？](https://github.com/haizlin/fe-interview/issues/1108)
+- [你知道什么是锚点吗？它的作用是什么？怎么创建一个锚点？](https://github.com/haizlin/fe-interview/issues/1104)
+- [请问WebSql是HTML5的一个规范吗？](https://github.com/haizlin/fe-interview/issues/1100)
+- [精灵图和base64如何选择呢？](https://github.com/haizlin/fe-interview/issues/1096)
+- [html的button中的reset有什么作用？](https://github.com/haizlin/fe-interview/issues/1092)
+- [请说说Canvas和SVG图形的区别是什么？](https://github.com/haizlin/fe-interview/issues/1088)
+- [举例说明table怎么合并行和列的？](https://github.com/haizlin/fe-interview/issues/1083)
+- [HTML5规范将元素分为哪几个大类？分别说说它们的特点](https://github.com/haizlin/fe-interview/issues/1078)
+- [使用canvas画出一个矩形](https://github.com/haizlin/fe-interview/issues/1073)
+- [说说form-data、x-www-form-urlencoded、raw、binary的区别是什么？](https://github.com/haizlin/fe-interview/issues/1069)
+- [请描述下application cache的更新过程？](https://github.com/haizlin/fe-interview/issues/1065)
+- [你知道富文本编辑器的实现原理吗？](https://github.com/haizlin/fe-interview/issues/1061)
+- [说说你对富文本的理解，你有用过哪些富文本编辑器呢？](https://github.com/haizlin/fe-interview/issues/1057)
+- [有使用过HTML5的跟踪元素吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/1053)
 - [frame和iframe有什么区别？](https://github.com/haizlin/fe-interview/issues/1049)
 - [页面布局中的结构与表现分离，那么什么是结构？什么是表现呢？](https://github.com/haizlin/fe-interview/issues/1045)
 - [怎样去除html标签之间换行产生的空格？](https://github.com/haizlin/fe-interview/issues/1041)

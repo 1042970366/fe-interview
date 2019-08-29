@@ -2,8 +2,22 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.08.011
+> 最新：2019.08.25
 
+- [你知道产品经理一般画的原型是用什么工具吗？有没有自己玩过？](https://github.com/haizlin/fe-interview/issues/1111)
+- [说说你对重构的理解](https://github.com/haizlin/fe-interview/issues/1107)
+- [关于重复造轮子这件事你是怎么理解的？](https://github.com/haizlin/fe-interview/issues/1103)
+- [知道为何有些网站访不需要端口号？说说你对端口的理解？](https://github.com/haizlin/fe-interview/issues/1099)
+- [说说你对移动端和web前端开发的主要区别是什么？](https://github.com/haizlin/fe-interview/issues/1095)
+- [你有了解opengl吗？它有哪些作用？](https://github.com/haizlin/fe-interview/issues/1091)
+- [说说你对Web App 、Hybrid App和Native App这三者的理解？](https://github.com/haizlin/fe-interview/issues/1086)
+- [你有开发过弹幕吗？知道它的原理吗？说说看](https://github.com/haizlin/fe-interview/issues/1081)
+- [你了解雅虎前端优化的35条军规吗？你能说上几条？](https://github.com/haizlin/fe-interview/issues/1076)
+- [如果一个项目要你重构成前后端分离，你的方法论是什么？](https://github.com/haizlin/fe-interview/issues/1072)
+- [用哪种格式可以存储包含Alpha通道的图像？Alpha通道是指什么？](https://github.com/haizlin/fe-interview/issues/1068)
+- [你有签过保密协议吗？说说你对保密协议的理解](https://github.com/haizlin/fe-interview/issues/1064)
+- [你对jsfuck有了解吗？它的原理是什么？请举例说明](https://github.com/haizlin/fe-interview/issues/1060)
+- [你有做过骨架屏吗？它的原理是什么知道吗？](https://github.com/haizlin/fe-interview/issues/1056)
 - [你今年多大了？请说说看你认为你的程序员生涯能做到多少岁？](https://github.com/haizlin/fe-interview/issues/1052)
 - [对于前后端分离，你是怎么理解的？](https://github.com/haizlin/fe-interview/issues/1048)
 - [说下你是如何从PS切出图的，有什么技巧？](https://github.com/haizlin/fe-interview/issues/1044)
